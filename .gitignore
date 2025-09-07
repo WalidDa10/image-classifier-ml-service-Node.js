@@ -4,12 +4,6 @@ Server/.env
 
 #client
 client/node_modules/
-# client/.pnp
-# client/.pnp.js
-# client/coverage
-# client/build
-
-
 
 .DS_Store
 *.log
