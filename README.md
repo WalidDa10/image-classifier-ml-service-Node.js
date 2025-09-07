@@ -54,4 +54,4 @@ git clone https://github.com/WalidDa10/image-classifier-ml-service-Node.js.git
 
 ## 👌 Screenshots
 
-![](<Screenshot(1).png)
+![](<images/Screenshot(1).png>)
