@@ -1,8 +1,8 @@
-# # Enforce LF for all text files
-# * text=auto eol=lf
+# Enforce LF for all text files
+* text=auto eol=lf
 
-# # Explicitly handle specific files
-# *.js text eol=lf
-# *.json text eol=lf
-# *.html text eol=lf
-# *.css text eol=lf
+# Explicitly handle specific files
+*.js text eol=lf
+*.json text eol=lf
+*.html text eol=lf
+*.css text eol=lf
